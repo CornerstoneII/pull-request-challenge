@@ -30,7 +30,7 @@ git config --global user.email your-email
 
 5. Tpe `git add -A`.
 
-6. Type `git commit -m "added *insert name here* to contributors.md"`.
+6. Type `git commit -m "added *Oluwaseun Iyadi* to contributors.md"`.
 
 7. Type `git push origin master`. Your forked copy of this repo on github will now have your changes.
 
